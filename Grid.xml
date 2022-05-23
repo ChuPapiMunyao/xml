@@ -1,0 +1,5 @@
+<Response>
+<Dial callerId="+913368110991" record="true">
+<Number answerOnBridge="true" statusCallback="https://dev.vibtree.com/api/webhook/vibconnect/ivr_studios" statusCallbackEvent="initiated, ringing, answered, completed" statusCallbackMethod="POST">919007393057</Number>
+</Dial>
+</Response>
