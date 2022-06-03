@@ -1,0 +1,6 @@
+<Response>
+    <Gather action="https://app.vibtree.com/api/ivrstudios/convert/62987769758158001ec06626/7680d/dea36" method="POST" numDigits="1">
+        <Play loop="">https://vibtreedan.s3.eu-central-1.amazonaws.com/public/2022-06-02T09%3A16%3A55.686Z_Enigma%20Mandil%20-%20Main%20IVR.mp3</Play>
+    </Gather>
+    <Pause length=""/>
+</Response>
